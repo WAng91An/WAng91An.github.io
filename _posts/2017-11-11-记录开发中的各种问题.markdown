@@ -1,5 +1,7 @@
 ### url请求中文乱码问题
 
+![I and My friends]({{site.baseurl}}/assets/img/we-in-rest.jpg)
+
 ```
     http://localhost:8080/manage/category/add_category.do?parentId=0&categoryName=家庭用品
 

@@ -1,6 +1,13 @@
 # SSM整合配置文件的编写
 
+ssm框架整合基础配置
+
 ### pom.xml
+
+
+
+
+
 ```
      <dependencies>
 

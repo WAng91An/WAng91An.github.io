@@ -1,5 +1,7 @@
 # mybatis 学习笔记
 
+![I and My friends]({{site.baseurl}}/assets/img/we-in-rest.jpg)
+
 ### 分页插件的使用步骤
 
 1.引入pageHelper
