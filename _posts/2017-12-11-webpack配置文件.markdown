@@ -1,22 +1,15 @@
 ---
 layout: post
-title: ssm整合配置文件
-img: js-1.png # Add image post (optional)
+title: webpack
+date: 2017-09-12 00:00:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: software.jpg # Add image post (optional)
 tags: [webpack] # add tag
 ---
 
+WebPack可以看做是模块打包机：它做的事情是，分析你的项目结构，找到JavaScript模块以及其它的一些浏览器不能直接运行的拓展语言（Scss，TypeScript等），并将其转换和打包为合适的格式供浏览器使用。现今的很多网页其实可以看做是功能丰富的应用，它们拥有着复杂的JavaScript代码和一大堆依赖包。为了简化开发的复杂度，前端社区涌现出了很多好的实践方法,下面是比较具体的配置开发环境步骤
 
-
-# webpack 配置文件
-
-
-webpack的配置非常麻烦而且，版本吗不兼容的话很容易安装失败，但是为了满足大多数的需求我们可以，把需要的都安装上，可以参照下面的步骤进行配置自己的webpack
-
-
-
-
-
-### 安装插件等
+### 安装插件
 ```
 	 npm install webpack -g
 	 npm install webpack --save-dev
@@ -141,3 +134,8 @@ module.exports = config;
 }
 
 ```
+
+
+
+
+

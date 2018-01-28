@@ -1,4 +1,23 @@
-### url请求中文乱码问题
+
+
+---
+layout: post
+title:   url请求中文乱码问题
+date: 2017-010-16 00:00:00 +0300
+description:  url请求中文乱码问题  # Add post description (optional)
+img: how-to-start.jpg # Add image post (optional)
+tags: [encoding] # add tag
+---
+
+做项目我们可能遇到乱码的问题，非常头疼，可以尝试用下面的方法进行解决乱码的问题
+
+
+### 解决乱码问题
+
+比如我们请求夏目按的接口，但是传递的参数有中文可能导致写入数据库乱码，这样应该怎么解决呢？
+
+
+
 
 ```
     http://localhost:8080/manage/category/add_category.do?parentId=0&categoryName=家庭用品
@@ -49,3 +68,7 @@
 <Connector connectionTimeout="20000" port="8080" protocol="HTTP/1.1" redirectPort="8443" URIEncoding="UTF-8"/>
 
 ```
+
+
+
+

@@ -1,14 +1,16 @@
 ---
 layout: post
-title: ssm整合配置文件
-img: js-1.png # Add image post (optional)
-tags: [SSM] # add tag
+title: SSM框架整和
+date: 2018-01-01 00:00:00 +0300
+description: SSM框架整和 # Add post description (optional)
+img: workflow.jpg # Add image post (optional)
+tags: [ssm] # add tag
 ---
-SSM整合配置文件的编写，下面是ssm整合比较基础的配置文件，如果号需要什么额外的功能可以自行添加
 
-
-
-
+SSM（Spring+SpringMVC+MyBatis）框架集由Spring、SpringMVC、MyBatis三个开源框架整合而成，常作为数据源较简单的web项目的框架。
+- 其中spring是一个轻量级的控制反转（IoC）和面向切面（AOP）的容器框架。
+- SpringMVC分离了控制器、模型对象、分派器以及处理程序对象的角色，这种分离让它们更容易进行定制。
+- MyBatis是一个支持普通SQL查询，存储过程和高级映射的优秀持久层框架。
 
 ssm框架整合基础配置
 
@@ -384,6 +386,9 @@ ssm框架整合基础配置
     }
 
 ```
+
+
+
 
 
 

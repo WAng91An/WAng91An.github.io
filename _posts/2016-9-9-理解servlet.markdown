@@ -1,13 +1,13 @@
 ---
+layout: post
+title:  about servlet
+date: 2017-010-16 00:00:00 +0300
+description: about servlet  # Add post description (optional)
 img: how-to-start.jpg # Add image post (optional)
+tags: [servlet] # add tag
 ---
 
 为了能让Web服务器与Web应用这两个不同的软件系统协作，需要一套标准接口，Servlet就是其中最主要的一个接口,SUN公司（现在被Oracle收购了……）制定了Web应用于Web服务器进行协作的一系列标准Java接口（统称为Java Servlet API）。
-
-### 关于servlet的姐扫
-
-servelt，servlet容器的概念，以及生命周期
-
 
 ### Servlet是什么
 
@@ -130,6 +130,5 @@ load-on-starup参数值越小，优先级越高（最小值为0，优先级最�
 destroy()方法用于释放资源。
 
 在servlet的整个生命周期当中，init,destroy只会执行一次，而service方法会执行多次。
-
 
 
