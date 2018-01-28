@@ -7,7 +7,7 @@ img: how-to-start.jpg # Add image post (optional)
 tags: [servlet] # add tag
 ---
 
-为了能让Web服务器与Web应用这两个不同的软件系统协作，需要一套标准接口，Servlet就是其中最主要的一个接口,SUN公司（现在被Oracle收购了……）制定了Web应用于Web服务器进行协作的一系列标准Java接口（统称为Java Servlet API）。
+为了能让Web服务器与Web应用这两个不同的软件系统协作,需要一套标准接口.Servlet就是其中最主要的一个接口,SUN公司（现在被Oracle收购了……）制定了Web应用于Web服务器进行协作的一系列标准Java接口（统称为Java Servlet API）.
 
 ### Servlet是什么
 
