@@ -1,6 +1,6 @@
 ---
 layout: post
-title:   url url  url url url url url 
+title:  how to solve  url request encoding  problems
 date: 2016-09-12 00:00:00 +0300
 description:  url请求中文乱码问题  # Add post description (optional)
 img: how-to-start.jpg # Add image post (optional)
