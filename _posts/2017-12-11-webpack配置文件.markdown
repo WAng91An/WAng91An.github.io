@@ -1,4 +1,21 @@
+---
+layout: post
+title: ssm整合配置文件
+img: js-1.png # Add image post (optional)
+tags: [webpack] # add tag
+---
+
+
+
 # webpack 配置文件
+
+
+webpack的配置非常麻烦而且，版本吗不兼容的话很容易安装失败，但是为了满足大多数的需求我们可以，把需要的都安装上，可以参照下面的步骤进行配置自己的webpack
+
+
+
+
+
 ### 安装插件等
 ```
 	 npm install webpack -g

@@ -6,8 +6,12 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: i-rest.jpg # Add image post (optional)
 tags: [Mybatis]
 ---
+自己使用mybatis中发现很多配置的时候是相同的，便把它们记录下来
+分页插件的使用步骤
 
-### 分页插件的使用步骤
+
+
+
 
 1.引入pageHelper
 ```

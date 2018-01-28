@@ -1,4 +1,14 @@
-# SSM整合配置文件的编写
+---
+layout: post
+title: ssm整合配置文件
+img: js-1.png # Add image post (optional)
+tags: [SSM] # add tag
+---
+SSM整合配置文件的编写，下面是ssm整合比较基础的配置文件，如果号需要什么额外的功能可以自行添加
+
+
+
+
 
 ssm框架整合基础配置
 

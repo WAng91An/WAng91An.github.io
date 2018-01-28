@@ -1,6 +1,8 @@
+---
+img: how-to-start.jpg # Add image post (optional)
+---
 
-
-# Jsp Servlet
+为了能让Web服务器与Web应用这两个不同的软件系统协作，需要一套标准接口，Servlet就是其中最主要的一个接口,SUN公司（现在被Oracle收购了……）制定了Web应用于Web服务器进行协作的一系列标准Java接口（统称为Java Servlet API）。
 
 ### 关于servlet的姐扫
 
@@ -13,15 +15,15 @@ servelt，servlet容器的概念，以及生命周期
 
 - 规定：
 
-- - Web服务器可以访问任意一个Web应用中实现Servlet接口的类。
+ - Web服务器可以访问任意一个Web应用中实现Servlet接口的类。
 
-- - Web应用中用于被Web服务器动态调用的程序代码位于Servlet接口的实现类中。
+ - Web应用中用于被Web服务器动态调用的程序代码位于Servlet接口的实现类中。
 
-- - SUN公司（现在被Oracle收购了……）制定了Web应用于Web服务器进行协作的一系列标准Java接口（统称为Java Servlet API）。
+ - SUN公司（现在被Oracle收购了……）制定了Web应用于Web服务器进行协作的一系列标准Java接口（统称为Java Servlet API）。
 
-- - SUN公司还对Web服务器发布及运行Web应用的一些细节做了规约。SUN公司把这一系列标准Java接口和规约统称为Servlet规范。
+ - SUN公司还对Web服务器发布及运行Web应用的一些细节做了规约。SUN公司把这一系列标准Java接口和规约统称为Servlet规范。
 
-- - Servlet是一种运行在服务器上的小插件。
+ - Servlet是一种运行在服务器上的小插件。
 
 ### Servlet容器是什么
 
