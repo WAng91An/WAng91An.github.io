@@ -1,13 +1,16 @@
 ---
 layout: post
-title:  leaning mybatis notes for mybatis pagehelper
+title:  Mybatis pagehelper
 date: 2018-01-16 00:00:00 +0300
 description: mybatis pagehelper # Add post description (optional)
 img: software.jpg # Add image post (optional)
 tags: [mybatis] # add tag
 ---
-对于使用Mybatis时最头痛的就是写分页,需要先写一个查询count的select语句.然后再写一个真正分页查询的语句,当查询条件多了之后,会发现真不想花双倍的时间写count和select，可以发现，重复的代码太多，虽然说复制粘贴简单的很，但是文件的长度在成倍的增加，以后翻阅代码的时候头都能大了。
-于是希望只写一个select语句，count由插件根据select语句自动完成。找啊找啊，发现PageHelperhttps://github.com/pagehelper/Mybatis-PageHelper 符合要求
+
+The most headache is when to use the Mybatis write paging, need to write a query count of a select statement. Then write a real paging query statements, much later, when the query conditions will find really don't want to take double the time to write the count and the select, can be found that duplicated code is too much, although very simple copy and paste, but the length of the file in increasing exponentially, after reading the code when the head can be big.
+
+So I want to write only a select statement, and count is done automatically by the plug-in based on the select statement. To find ah find ah, find PageHelperhttps://github.com/pagehelper/Mybatis-PageHelper meets the requirements
+
 
 ### 使用过程
 1.引入pageHelper
