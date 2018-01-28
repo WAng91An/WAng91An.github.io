@@ -7,7 +7,10 @@ img: software.jpg # Add image post (optional)
 tags: [webpack] # add tag
 ---
 
-WebPack可以看做是模块打包机：它做的事情是,分析你的项目结构,找到JavaScript模块以及其它的一些浏览器不能直接运行的拓展语言（Scss，TypeScript等.并将其转换和打包为合适的格式供浏览器使用。现今的很多网页其实可以看做是功能丰富的应用，它们拥有着复杂的JavaScript代码和一大堆依赖包。为了简化开发的复杂度，前端社区涌现出了很多好的实践方法,下面是比较具体的配置开发环境步骤
+WebPack baling press is seen as a module: it is doing, analysis the project structure, you find a JavaScript module and other browsers can't run directly expand language (Scss, TypeScript, etc. And transform it and packaging to the appropriate format for the use of the browser. Many of today's web pages can be seen as feature-rich applications with complex JavaScript code and a lot of dependencies. In order to simplify the complexity of development, a number of good practices have emerged in the front-end community, and the following is a more detailed configuration development environment step.
+
+修改翻译结果
+
 
 ### 安装插件
 ```
