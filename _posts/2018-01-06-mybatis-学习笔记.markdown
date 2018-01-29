@@ -4,7 +4,7 @@ title:  Mybatis pagehelper
 date: 2018-01-16 00:00:00 +0300
 description: mybatis pagehelper # Add post description (optional)
 img: software.jpg # Add image post (optional)
-tags: [mybatis] # add tag
+tags: [Mybatis] # add tag
 ---
 
 The most headache is when to use the Mybatis write paging, need to write a query count of a select statement. Then write a real paging query statements, much later, when the query conditions will find really don't want to take double the time to write the count and the select, can be found that duplicated code is too much, although very simple copy and paste, but the length of the file in increasing exponentially, after reading the code when the head can be big.

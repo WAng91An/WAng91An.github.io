@@ -4,7 +4,7 @@ title: SSM框架整合
 date: 2018-01-01 00:00:00 +0300
 description: SSM框架整和 # Add post description (optional)
 img: workflow.jpg # Add image post (optional)
-tags: [ssm] # add tag
+tags: [SSM] # add tag
 ---
 
 The framework of SSM，Spring+SpringMVC+MyBatis is integrated by Spring, SpringMVC and MyBatis three open source frameworks, and is often used as a framework for simple web projects of data sources.

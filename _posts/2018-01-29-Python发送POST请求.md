@@ -4,7 +4,7 @@ title: Python发送Post请求
 date: 2018-01-29 00:00:00 +0300
 description: Python发送Post请求 # Add post description (optional)
 img: workflow.jpg # Add image post (optional)
-tags: [ssm] # add tag
+tags: [Python] # add tag
 ---
 爬虫:a program that automatically grabs Internet information from the Internet to capture valuable information about us.
 
