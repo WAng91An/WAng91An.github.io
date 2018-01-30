@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  English-Learnng(1).
+title:  English learning(1)
 date: 2018-01-29- 00:00:00 +0300
 img: software.jpg # Add image post (optional)
 tags: [English] # add tag
