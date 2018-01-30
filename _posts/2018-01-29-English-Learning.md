@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  English-Learnng.
+title:  English-Learnng(1).
 date: 2018-01-29- 00:00:00 +0300
 img: software.jpg # Add image post (optional)
 tags: [English] # add tag
@@ -124,6 +124,7 @@ One year before the postgraduate exam, I learned English by using the root of th
 	词根：equ-表示相等；
 	词根：anim-表示生命
 	后缀：－ity名词后缀
+    人生多大的起伏都平等对待
 
 
 
