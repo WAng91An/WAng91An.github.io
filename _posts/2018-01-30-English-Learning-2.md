@@ -2,7 +2,7 @@
 layout: post
 title:  English learning(2)
 date: 2018-01-30- 00:00:00 +0300
-img: 3.jpg # Add image post (optional)
+img: 3.png # Add image post (optional)
 tags: [English] # add tag
 ---
 
