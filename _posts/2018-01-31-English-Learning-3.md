@@ -2,7 +2,7 @@
 layout: post
 title:  English learning(3)
 date: 2018-01-31- 00:00:00 +0300
-img: software.jpg # Add image post (optional)
+img: 2.jpg # Add image post (optional)
 tags: [English] # add tag
 ---
 
@@ -11,7 +11,7 @@ One year before the postgraduate exam, I learned English by using the root of th
 
 ### 4 词汇记忆之时间一年又一年 背单词的心都不曾改变
 
-** card, cord=heart,表示“心脏，一致”**
+**card, cord=heart,表示“心脏，一致”**
 
     词根助记：record 记录； re-表示再一次，往回；cord- 词根表示心。最原始的记录就是把…东西或事情一遍一遍的放在心里，完成记忆。
 
