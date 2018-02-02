@@ -9,9 +9,9 @@ tags: [English] # add tag
 One year before the postgraduate exam, I learned English by using the root of the word. This is my notes.
 
 
-### 3 词汇记忆之唤醒动力 让生命飞翔
+### 2 词汇记忆之唤醒动力 让生命飞翔
 
-**av,avar, avi=desire,bird,表示“渴望，鸟” **
+**av,avar, avi=desire,bird,表示“渴望，鸟”**
 
 词根助记：av-鸟,渴望,飞行
 
@@ -47,8 +47,8 @@ One year before the postgraduate exam, I learned English by using the root of th
 
 **bio,bi=life,表示“生命，生物”**
 
-词根助记：biology生物； bio + ology学科名词后缀——生物学
-再备注：bi-作为前缀表示数字二，比如bicycle 自行车表示的是两个轮子的东西，其中bi-表示二，cycl-词根表示圆圈。Bio-中bi-表示二，o-表示细胞；生命增长和发展形式“二次分裂”。
+    词根助记：biology生物； bio + ology学科名词后缀——生物学
+    再备注：bi-作为前缀表示数字二，比如bicycle 自行车表示的是两个轮子的东西，其中bi-表示二，cycl-词根表示圆圈。Bio-中bi-表示二，o-表示细胞；生命增长和发展形式“二次分裂”。
 
 1. biography n.传记
 
@@ -101,7 +101,7 @@ One year before the postgraduate exam, I learned English by using the root of th
 
 **Cit=quote,call, 表示“引用，唤起”**
 
-词根助记：excited 是由ex + cit + ed构成，兴奋的就是唤起了内心的情绪。Cit- 表示唤起，引起。
+	词根助记：excited 是由ex + cit + ed构成，兴奋的就是唤起了内心的情绪。Cit- 表示唤起，引起。
 
 1. cite v.引用；引证
 
@@ -119,7 +119,7 @@ One year before the postgraduate exam, I learned English by using the root of th
 
 4. incitation n.激动
 
-	前缀：in-表示向内或否定，此处表示宪哥你
+	前缀：in-表示向内或否定
 
 	词根：cit- 表示引起，唤起
 

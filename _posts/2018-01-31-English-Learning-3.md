@@ -9,7 +9,7 @@ tags: [English] # add tag
 One year before the postgraduate exam, I learned English by using the root of the word. This is my notes.
 
 
-### 4 词汇记忆之时间一年又一年 背单词的心都不曾改变
+### 3 词汇记忆之时间一年又一年 背单词的心都不曾改变
 
 **card, cord=heart,表示“心脏，一致”**
 

@@ -9,7 +9,7 @@ tags: [English] # add tag
 One year before the postgraduate exam, I learned English by using the root of the word. This is my notes.
 
 
-### 5 词汇记忆之只有逃离依附 才能走向光明
+### 4 词汇记忆之只有逃离依附 才能走向光明
 
 	chronograph 计时器
     graph 写,把时间写下来
@@ -70,7 +70,7 @@ One year before the postgraduate exam, I learned English by using the root of th
 	词根助记：he man male
 	she woman female
 
-当时的社会环境和社会条件中，人们认为女性没有办法离开男性单独存在生存，所以根据当时人们的逻辑和认知创造了表示“依附，粘”的词根her-, 以及she的变形hes-
+    当时的社会环境和社会条件中，人们认为女性没有办法离开男性单独存在生存，所以根据当时人们的逻辑和认知创造了表示“依附，粘”的词根her-, 以及she的变形hes-
 
 1. adhere v.粘着，依附
 
@@ -155,7 +155,7 @@ One year before the postgraduate exam, I learned English by using the root of th
 
 **luc,lust=light,shine,表示“光,照亮”**
 
-1. lucentadj. 发亮的
+1. lucent adj. 发亮的
 
 2. lucid adj.透明的，清楚的
 
@@ -163,13 +163,13 @@ One year before the postgraduate exam, I learned English by using the root of th
 
 4. elucidate v.阐明，解释
 
-5. elucidationn. 阐明，解释
+5. elucidation n. 阐明，解释
 
-6. translucentadj.半透明的
+6. translucent adj.半透明的
 
 	- 备注：trans-表示穿透through或者改变
 
-7. noctilucentadj.夜间能发光的
+7. noctilucent adj.夜间能发光的
 
 	- 备注：noct-表示夜晚
 
@@ -179,9 +179,9 @@ One year before the postgraduate exam, I learned English by using the root of th
 
 10. lackluster adj. 没有光泽的
 
-11. lustrousadj.有光泽的
+11. lustrous adj.有光泽的
 
-12. illustratev.说明，阐明
+12. illustrate v.说明，阐明
 
 	- 备注：I + 辅音＋相同辅音表示否定或者加强语气。比如illegal——il + leg + al非法的
 

@@ -71,6 +71,7 @@ One year before the postgraduate exam, I learned English by using the root of th
 2. -al 形容词后缀或者名词后缀
 
  	例： personal ----person + al
+
 	例： animal------anim + al
 
 3. -ation 名词后缀
@@ -99,20 +100,11 @@ One year before the postgraduate exam, I learned English by using the root of th
 
 ### 2 词汇记忆初探
 
-
-
 **Ambul=walk,表示“行走，走路”**
 
+    词根助记：ambulance 救护车，流动医院
 
-
-词根助记：ambulance 救护车，流动医院
-
-
-
-备注：ambulance 这个单词最原始的意思表示的是战地医院。人抬着单价到处跑，看看哪有伤员。所以ambulance这个单词里面就有个ambul- 表示行走，走路的意思。
-
-
-
+    备注：ambulance 这个单词最原始的意思表示的是战地医院。人抬着单价到处跑，看看哪有伤员。所以ambulance这个单词里面就有个ambul- 表示行走，走路的意思。
 
 
 1. Ambulant adj.走动的，流动的
