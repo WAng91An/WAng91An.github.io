@@ -12,7 +12,10 @@ site-twitter: #if your site has a twitter account, enter it here
 author: WAng Qian  # add your name
 author-img: w.png # add your photo
 about-author: Love life,love development # add description
+twitter: # add your Twitter handle
+facebook: # add your Facebook handle
 github: WAng91An # add your Github handle
+linkedin: # add your Linkedin handle
 email: 1027700603@qq.com # add your Email address
 
 # Disqus
