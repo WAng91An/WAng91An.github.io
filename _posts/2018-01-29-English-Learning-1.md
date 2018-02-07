@@ -14,7 +14,7 @@ tags: [English] # add tag
 
 
 
-One year before the postgraduate exam, I learned English by using the root of the word. This is my notes.
+One year before the postgraduate exam, I learned English by using the root of the word. This is my note.
 
 
 

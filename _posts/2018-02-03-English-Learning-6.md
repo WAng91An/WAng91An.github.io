@@ -6,7 +6,7 @@ img: 2.png # Add image post (optional)
 tags: [English] # add tag
 ---
 
-One year before the postgraduate exam, I learned English by using the root of the word. This is my notes.
+One year before the postgraduate exam, I learned English by using the root of the word. This is my note.
 
 
 ###	6 词汇记忆之别跟不识字的算计 你会有说不出话的痛苦回忆

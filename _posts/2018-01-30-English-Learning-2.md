@@ -6,7 +6,7 @@ img: 3.png # Add image post (optional)
 tags: [English] # add tag
 ---
 
-One year before the postgraduate exam, I learned English by using the root of the word. This is my notes.
+One year before the postgraduate exam, I learned English by using the root of the word. This is my note.
 
 
 ### 2 词汇记忆之唤醒动力 让生命飞翔

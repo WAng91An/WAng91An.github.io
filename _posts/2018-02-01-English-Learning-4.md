@@ -6,7 +6,7 @@ img: 1.png # Add image post (optional)
 tags: [English] # add tag
 ---
 
-One year before the postgraduate exam, I learned English by using the root of the word. This is my notes.
+One year before the postgraduate exam, I learned English by using the root of the word. This is my note.
 
 
 ### 4 词汇记忆之只有逃离依附 才能走向光明
