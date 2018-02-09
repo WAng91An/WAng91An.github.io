@@ -18,9 +18,15 @@ One year before the postgraduate exam, I learned English by using the root of th
 
 	后缀：－ist表示人
 
-	熟词强化：feminist女权主义者；antagonistn敌手，对手；
+	熟词强化：
+
+    - feminist女权主义者；
+
+    - antagonistn敌手，对手；
 
 	常见词扩展：arsonist n.纵火犯
+
+	- 词根:arson 纵火犯
 
 2. linguistics n.语言学
 
@@ -35,15 +41,25 @@ One year before the postgraduate exam, I learned English by using the root of th
 
 	- pediatrics n.小儿科
 
+		- 前缀:pedo- 儿童;
+		- 词根:iatric  治疗;
+
 	- genetics n.基因学
+
+		- 单词:gene 基因
+		- 词根:gen-  生育
 
 3. bilingual a.两种语言的
 
 	前缀：bi-表示二
 
-	熟词强化：bicycle自行车；
+	熟词强化：
 
-	常见词扩展：recycle v. 回收利用
+	- bicycle自行车；
+
+	常见词扩展：
+
+    - recycle v. 回收利用
 
 4. unilingual a.一种语言的
 
@@ -55,7 +71,9 @@ One year before the postgraduate exam, I learned English by using the root of th
 
     - uniform制服；
 
-	常见词扩展：unison n. 和谐，同音；
+	常见词扩展：
+
+    - unison n. 和谐，同音；
 
 5. multilingual adj.懂多种语言的
 
@@ -67,32 +85,49 @@ One year before the postgraduate exam, I learned English by using the root of th
 
     - multimedia 多媒体；
 
-	常见词扩展：multiparous adj.一胎多子的
+	常见词扩展：
+
+    - multiparous adj.一胎多子的
 
 6. sublingual adj.舌下的
 
 **fid=trust,faith,表示“相信，信念”**
 
-	词根助记：confidencen.自信，信任
+	词根助记：
+    confidencen.自信，信任
 	confident adj.自信的
 
 1. fidelity n.坚贞；忠心
 
 	后缀：-el名词后缀；表示人或物；
-    熟词强化：novel小说；model 模特；
-    常见词扩展：
 
-	personnel n.全体工作人员；
+	熟词强化：
 
-	parcel n. 包裹；
+    - novel小说；
+
+    - model 模特；
+
+	常见词扩展：
+
+	- personnel n.全体工作人员；
+
+	- parcel n. 包裹；
 
 2. confide v.吐露；信托
 
 	前缀：con- 表示全部，共同，所有
 
-	熟词强化：conflict 打，冲突；confluence汇流；
+	熟词强化：
 
-	常见词扩展：consolidate v. 巩固，加强
+    - conflict 打，冲突；
+
+		- 词根:flict 鞭子，击打;
+
+    - confluence汇流；
+
+	常见词扩展：
+
+    - consolidate v. 巩固，加强
 
 3. confidant n.知心朋友
 
@@ -108,13 +143,20 @@ One year before the postgraduate exam, I learned English by using the root of th
 
 	- exuberant adj. 茂盛的，兴高采烈的
 
+		- 词根:uber 乳房，乳汁
+
 	- extravagant adj.奢侈的
+
+		- 前缀：extra- 外面的，超过的
+		- 词根：vag 漫游
 
 4. confidential a.秘密的，机密的
 
 	后缀：-ial形容词后缀
 
-	熟词强化：special adj. 特殊的；
+	熟词强化：
+
+    - special adj. 特殊的；
 
 	常见词扩展：
 
@@ -126,15 +168,21 @@ One year before the postgraduate exam, I learned English by using the root of th
 
 	前缀：di +辅音＋相同辅音，从两个辅音中间断开，前半部分表示否定
 
-	常见词扩展：diffuse 扩散，传播
+	常见词扩展：
+
+    - diffuse 扩散，传播
 
 6. perfidy n.不忠实，背叛
 
 	前缀：per－表示从头到尾，从始至终，第二个意思表示假，坏
 
-	熟词强化：pervert 变态；
+	熟词强化：
 
-	常见词扩展：perjury n.伪证;假誓
+	- pervert 变态；
+
+	常见词扩展：
+
+    - perjury n.伪证;假誓
 
 7. perfidious adj.背信弃义的
 
@@ -172,7 +220,9 @@ One year before the postgraduate exam, I learned English by using the root of th
 
     - routine例行公事；
 
-	常见词扩展：famine n.饥荒
+	常见词扩展：
+
+    - famine n.饥荒
 
 3. doctrinaire n.空谈家 a.教条的
 
@@ -180,8 +230,7 @@ One year before the postgraduate exam, I learned English by using the root of th
 
 	熟词强化：
 
-
-    - millionaire百万富翁；
+    - millionaire 百万富翁；
 
     - questionnaire 调查问卷；
 
@@ -189,9 +238,13 @@ One year before the postgraduate exam, I learned English by using the root of th
 
 	后缀：－ile形容词后缀或名词后缀
 
-	熟词强化：senile 老年的；
+	熟词强化：
 
-	常见词扩展：tortile adj.扭曲的；
+	- senile 老年的；
+
+	常见词扩展：
+
+    - tortile adj.扭曲的；
 
 5. indocile adj.难驯服的
 
@@ -217,9 +270,16 @@ One year before the postgraduate exam, I learned English by using the root of th
 
 	后缀：－al形容词后缀；或名词后缀；
 
-	熟词强化：empirical adj.以经验为依据的
+	熟词强化：
 
-	常见词扩展：fatal adj. 致命的；
+    - empirical adj.以经验为依据的
+
+		- 前缀:em- 进入，使
+		- 词根:pir 尝试，冒险
+
+	常见词扩展：
+
+	- fatal adj. 致命的；
 
 3. fractious adj.易怒的，脾气坏的
 
@@ -228,6 +288,9 @@ One year before the postgraduate exam, I learned English by using the root of th
 	常见词扩展：
 
 	- prosperous adj.繁荣的
+
+		- 浅醉：pro- 前
+        - 词根：sper- 希望
 
 	- circuitous adj.迂回的
 
@@ -239,7 +302,11 @@ One year before the postgraduate exam, I learned English by using the root of th
 
 	- torture n.酷刑，折磨
 
+		- 词根：tort- 扭, 拧；
+
 	- expenditure n.支出
+
+		- 词根：pend- 支付
 
 	- signature n.签名
 
@@ -255,9 +322,15 @@ One year before the postgraduate exam, I learned English by using the root of th
 
 	- reverse 反转的,颠倒的
 
+		- 词根：vers- 转
+
 	- repugnant adj.令人厌恶的
 
+		- 词根pugn, 拳头
+
 	- resonant adj.回响的;洪亮的
+
+		- 词根：son- 声音
 
 8. refraction n.折射作用
 
