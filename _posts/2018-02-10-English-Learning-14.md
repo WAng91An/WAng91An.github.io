@@ -20,7 +20,12 @@ One year before the postgraduate exam, I learned English by using the root of th
 
 	- eminence n. 杰出，著名
 
+		- 前缀：e- 向外
+		- 词根: -min 突出
+
 	- turbulence n.骚乱
+
+		- 词根：turbul- 混乱,骚扰
 
 2. credit n.信任；学分
 
@@ -44,15 +49,24 @@ One year before the postgraduate exam, I learned English by using the root of th
 
 	- disperse v.散布，分散
 
+		- 词根：sper  散开
+
 	- dysphoria n. 烦躁不安；
 
+		- 前缀：dys- 不好的
+		- 词根：phor 携带，承担
+
 	- dyspepsia n.消化不良
+
+		-  词根：peps, 消化，熟
 
 	- dyslexia n.阅读障碍
 
 6. credulous adj.轻信的
+
 7. incredulous adj.不轻信的
-8. incredulity adj."不轻信
+
+8. incredulity adj.不轻信
 
 **dict, dic= say, assert, 表示“说话，断言”**
 
@@ -68,6 +82,9 @@ One year before the postgraduate exam, I learned English by using the root of th
 
 	- eradicate v.根除；
 
+		- 前缀：e- 向外
+		- 词根：rad 根
+
 2. dictator n.发命令者；独裁者
 
 	后缀：－ator 名词后缀；
@@ -79,6 +96,7 @@ One year before the postgraduate exam, I learned English by using the root of th
 	- incubator 孵化器；早产儿育儿箱
 
 3. dictum n.格言；断言
+
 4. benediction n.祝福
 
 	前缀：bene- 表示好
@@ -87,9 +105,16 @@ One year before the postgraduate exam, I learned English by using the root of th
 
 	- benevolent adj.善心的
 
+		- 前缀：bene （好）
+		- 词根：volent （希望）
+
 	- benefaction n.好事；恩惠
 
+		- 词根：fact 做
+
 5. malediction n.恶言；诅咒
+
+	词根：male- 坏，不好的，错误
 
 	常见词扩展：
 
@@ -111,7 +136,12 @@ One year before the postgraduate exam, I learned English by using the root of th
 
 	- contravene v.违反，取消
 
+		- 前缀：contra- 相对，相反
+		- 词根：ven  走
+
 	- contraband v.走私
+
+		- 词根：ban 命令，禁令
 
 7. contradictory adj.矛盾的，对立的
 
@@ -127,6 +157,8 @@ One year before the postgraduate exam, I learned English by using the root of th
 
 	- prescient adj.有先见之明的
 
+		- 词根：sci, 知道，知晓
+
 10. prediction n.预言；预告
 
 11. indict v.起诉，控诉
@@ -137,7 +169,9 @@ One year before the postgraduate exam, I learned English by using the root of th
 
 	前缀：ab- 否定；
 
-	常见词扩展：abstinence n.节制，戒
+	常见词扩展：
+
+    - abstinence n.节制，戒
 
 14. dedicate v.献身于，致力于
 
