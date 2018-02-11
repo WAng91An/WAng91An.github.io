@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  English learning(14)
-date: 2018-02-08- 15:00:00 +0300
-img: 4.png # Add image post (optional)
+date: 2018-02-10- 15:00:00 +0300
+img: 11.jpg # Add image post (optional)
 tags: [English] # add tag
 ---
 
@@ -18,9 +18,9 @@ One year before the postgraduate exam, I learned English by using the root of th
 
 	常见词扩展：
 
-	eminence n. 杰出，著名
+	- eminence n. 杰出，著名
 
-	turbulence n.骚乱
+	- turbulence n.骚乱
 
 2. credit n.信任；学分
 
@@ -30,9 +30,9 @@ One year before the postgraduate exam, I learned English by using the root of th
 
 	常见词扩展：
 
-	comprehensible adj. 可以理解的
+	- comprehensible adj. 可以理解的
 
-	irresistible adj. 不可抵抗的，无法抵抗的
+	- irresistible adj. 不可抵抗的，无法抵抗的
 
 4. accredit v.委任；信任
 
@@ -42,13 +42,13 @@ One year before the postgraduate exam, I learned English by using the root of th
 
 	常见词扩展：
 
-	disperse v.散布，分散
+	- disperse v.散布，分散
 
-	dysphoria n. 烦躁不安；
+	- dysphoria n. 烦躁不安；
 
-	dyspepsia n.消化不良
+	- dyspepsia n.消化不良
 
-	dyslexia n.阅读障碍
+	- dyslexia n.阅读障碍
 
 6. credulous adj.轻信的
 7. incredulous adj.不轻信的
@@ -64,9 +64,9 @@ One year before the postgraduate exam, I learned English by using the root of th
 
 	常见词扩展：
 
-	coagulate v.凝结；
+	- coagulate v.凝结；
 
-	eradicate v.根除；
+	- eradicate v.根除；
 
 2. dictator n.发命令者；独裁者
 
@@ -74,9 +74,9 @@ One year before the postgraduate exam, I learned English by using the root of th
 
 	常见词扩展：
 
-	agitator n. 鼓动者
+	- agitator n. 鼓动者
 
-	incubator 孵化器；早产儿育儿箱
+	- incubator 孵化器；早产儿育儿箱
 
 3. dictum n.格言；断言
 4. benediction n.祝福
@@ -85,23 +85,23 @@ One year before the postgraduate exam, I learned English by using the root of th
 
 	常见词扩展：
 
-	benevolent adj.善心的
+	- benevolent adj.善心的
 
-	benefaction n.好事；恩惠
+	- benefaction n.好事；恩惠
 
 5. malediction n.恶言；诅咒
 
 	常见词扩展：
 
-	malnutrition n.营养不良（mal+nutrition营养）
+	- malnutrition n.营养不良（mal+nutrition营养）
 
-	malediction n.诅咒（male+dict说+ion→说坏话）
+	- malediction n.诅咒（male+dict说+ion→说坏话）
 
-	malefaction n.坏事，恶行（male+fact做+ion→做坏事）
+	- malefaction n.坏事，恶行（male+fact做+ion→做坏事）
 
-	malodor 恶臭（mal+odor气味）
+	- malodor 恶臭（mal+odor气味）
 
-	maltreat v.虐待（mal+treat对待）
+	- maltreat v.虐待（mal+treat对待）
 
 6. contradict n.反驳；否认
 
@@ -109,9 +109,9 @@ One year before the postgraduate exam, I learned English by using the root of th
 
 	常见词扩展：
 
-	contravene v.违反，取消
+	- contravene v.违反，取消
 
-	contraband v.走私
+	- contraband v.走私
 
 7. contradictory adj.矛盾的，对立的
 
@@ -123,9 +123,9 @@ One year before the postgraduate exam, I learned English by using the root of th
 
 	常见词扩展：
 
-	premonish v.预告，预感
+	- premonish v.预告，预感
 
-	prescient adj.有先见之明的
+	- prescient adj.有先见之明的
 
 10. prediction n.预言；预告
 
@@ -159,9 +159,9 @@ One year before the postgraduate exam, I learned English by using the root of th
 
 	常见词扩展：
 
-	verify v.证实；
+	- verify v.证实；
 
-	veracious adj.诚实的；
+	- veracious adj.诚实的；
 
 
 
