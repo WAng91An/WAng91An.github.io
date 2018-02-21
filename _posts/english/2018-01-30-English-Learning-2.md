@@ -143,6 +143,18 @@ One year before the postgraduate exam, I learned English by using the root of th
 
 	其中：sus-表示方向下面
 
+_ _ _
+
+关注微信公众号：Web项目聚集地 回复：音频 获取词根音频资源
+
+![]({{site.baseurl}}/assets/img/g.png)
+_ _ _
+
+
+
+
+
+
 
 
 
