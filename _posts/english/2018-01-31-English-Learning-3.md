@@ -9,7 +9,7 @@ tags: [English] # add tag
 One year before the postgraduate exam, I learned English by using the root of the word. This is my note.
 
 
-### 3 词汇记忆之时间一年又一年 背单词的心都不曾改变
+### 3 词汇记忆
 
 **card, cord=heart,表示“心脏，一致”**
 
@@ -139,7 +139,11 @@ One year before the postgraduate exam, I learned English by using the root of th
 	后缀：－ous形容词后缀；
 
 6. chronograph 计时器
+_ _ _
 
+关注微信公众号：Web项目聚集地 回复：音频 获取词根音频资源
+
+![]({{site.baseurl}}/assets/img/g.png)
 
 
 
