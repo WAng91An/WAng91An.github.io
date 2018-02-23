@@ -120,7 +120,7 @@ One year before the postgraduate exam, I learned English by using the root of th
 	词根助记：
 	stell---star因为音变l—m—n—r ，所以stell==star
 
-1. stellar adj.星的
+1. stellar adj.星的 
 
 	词根：stell-星星；
 
