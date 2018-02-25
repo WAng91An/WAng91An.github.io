@@ -208,7 +208,7 @@ One year before the postgraduate exam, I learned English by using the root of th
 
 5. astral adj.星的，星状的
 
-6. disastrous adj.灾难的
+6. disastrous adj.灾难的 
 
 
 
