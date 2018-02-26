@@ -313,6 +313,12 @@ One year before the postgraduate exam, I learned English by using the root of th
 13. illustration n. 插图说明
 
 
+_ _ _
+
+关注微信公众号：Web项目聚集地 回复：音频 获取词根音频资源
+
+![]({{site.baseurl}}/assets/img/g.png)
+
 
 
 
